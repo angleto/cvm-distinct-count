@@ -7,7 +7,7 @@ in particular the [CVM algorithm](https://en.wikipedia.org/wiki/Count-distinct_p
 
 ## Using the scala interpreter
 
-`scalaTest <m> <n> <window size>`
+`scala Test <m> <n> <window size>`
 
 where:
 * m -> is the length of the random sequence
