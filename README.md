@@ -15,7 +15,7 @@ where:
 * window size -> the window size
 
 ```bash
-Bash %> scala Test.scala 30000 4000 100
+sh %> scala Test.scala 30000 4000 100
 Result: exact(3996), estimation(3968.0)
 ```
 
@@ -28,6 +28,6 @@ To compile the program:
 Run the bytecode:
 
 ```bash
-Bash %> scala Test 30000 4000 100
+sh %> scala Test 30000 4000 100
 Result: exact(4000), estimation(3776.0)
 ```
